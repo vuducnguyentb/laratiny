@@ -13,3 +13,4 @@ composer require unisharp/laravel-filemanager
 php artisan vendor:publish --tag=lfm_config
 php artisan vendor:publish --tag=lfm_public
 
+Xem thêm https://unisharp.github.io/laravel-filemanager/installation
